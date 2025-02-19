@@ -6,5 +6,6 @@ signed_in = [
   "ting"
   "sizhe"
   "hellooooemi"
+  "lc"
 ]
 "abdullah"
